@@ -11,7 +11,7 @@
 https://youtu.be/FGMK8T3z94U
 
 # library
-- ESP8266WiFi.h : https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi
+- ESP8266WiFi.h : https://github.com/ekstrand/ESP8266wifi
 - LiquidCrystal_I2C.h : https://github.com/johnrickman/LiquidCrystal_I2C
 - TridentTD_LineNotify.h : https://www.arduinolibraries.info/libraries/trident-td_linenotify
 
