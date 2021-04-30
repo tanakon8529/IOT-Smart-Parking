@@ -19,7 +19,6 @@ https://youtu.be/FGMK8T3z94U
 ```
 
 #include <ESP8266WiFi.h>
-#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <TridentTD_LineNotify.h>
 
