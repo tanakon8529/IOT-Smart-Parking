@@ -1,3 +1,4 @@
+
 # IOT-Smart-Parking
 ระบบตรวจสอบช่องจอดรถผ่าน LINE Notify
 
@@ -6,6 +7,8 @@
 2. HC-SR04 Ultrasonic Distance
 3. 1602 LCD (Yellow Screen) 16x2 LCD + I2C Adapter
 4. LINE Notify : https://notify-bot.line.me/th/
+
+**[LINE ประกาศเตรียมยุติการให้บริการ LINE Notify ตั้งแต่วันที่ 31 มี.ค 2568 เป็นต้นไป](https://linedevth.line.me/th/knowledge-api/discontinued-line-notify#:~:text=LINE%20Notify%20%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1,%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B5%E0%B8%81)**
 
 คลิปตัวอย่างการทำงาน
 https://youtu.be/FGMK8T3z94U
